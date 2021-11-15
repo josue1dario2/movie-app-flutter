@@ -1,16 +1,11 @@
 # movie_app
 
-A new Flutter project.
+Un proyecto en flutter donde consumimos datos de una API " The Movie Database API "
 
-## Getting Started
+## The Movie Database API
 
-This project is a starting point for a Flutter application.
+Primero ingresamos a la sitio web 
 
-A few resources to get you started if this is your first Flutter project:
+- [themoviedb.org](https://www.themoviedb.org/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Luego nos registramos ingresar el icons de profile opción setting , api y generamos el api key que valor a utilizar a realizar los endpoints para la consulta http.
